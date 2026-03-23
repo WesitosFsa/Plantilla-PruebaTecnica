@@ -80,3 +80,15 @@ Para usar esta plantilla con otra API:
 
 ---
 Creado con ❤️ para desarrolladores de Flutter.
+
+
+## Comandos para instalar herramientas desde powershell me ahorra mas tiempo XD
+winget install OpenJS.NodeJS.LTS
+winget install Microsoft.VisualStudioCode
+winget install Google.Chrome
+winget install Flutter.Flutter
+## Por si acaso me quedo trabado y necesito ayuda
+npm install -g @google/gemini-cli
+## CMD
+code --install-extension dart-code.flutter si no instalo manualmente y no pasa nada
+flutter run -d chrome agilizar por si acaso pero me va ir bien :D
